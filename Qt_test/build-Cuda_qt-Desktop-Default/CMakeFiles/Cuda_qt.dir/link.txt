@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/Cuda_qt.dir/test.cpp.o  -o Cuda_qt -rdynamic 
